@@ -1,0 +1,15 @@
+{
+  "category": "Tecnologia",
+  "question": "¿En que año se lanzo la primera computadora portatil?",
+  "options": ["1990, 1991, 1981, 1970, 1978"],
+  "answer": 0,
+  "explanation": "La primera computadora portátil fue la Osborne 1 desarrollada en 1981."
+},
+{
+    "category": "Adaptaciones",
+    "question": "¿En que año la pelicula animada de Mario Bros?",
+    "options": ["2005, 2015, 2018, 2023, 2018"],
+    "answer": 0,
+    "explanation": "La pelicula de Mario Bros, se lanzo el 6 de abril de 2023."
+  },
+ 
